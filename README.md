@@ -36,6 +36,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-pramuditha&show_icons=true&locale=en" alt="vishwa-pramuditha" /></p>
 
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-pramuditha&" alt="vishwa-pramuditha" /></p>
